@@ -3,6 +3,8 @@ DESCRIPTION
 
 Simulation project for developing a News Vendor Problem application to a bakery production
 
+<img width="1596" height="717" alt="image" src="https://github.com/user-attachments/assets/f51dc7b6-d4c9-49de-a28e-62f140f13ff4" />
+
 CONTENTS
 
 This package contains the following files:
