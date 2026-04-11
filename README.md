@@ -5,7 +5,7 @@ Simulation project for developing a News Vendor Problem application to a bakery 
 
 CONTENTS
 
-This package contains the following fles:
+This package contains the following files:
 
 - README
 
