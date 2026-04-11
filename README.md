@@ -21,7 +21,7 @@ INSTRUCTIONS
 
 - To run the app,
 
-	- you will need an R installation (sorry that I did not succeed in making it portable...)
+	- you will need an R installation
 
 	- make sure you have both files app.Rand helpers.R in the shiny folder
 
