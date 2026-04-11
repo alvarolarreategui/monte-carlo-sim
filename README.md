@@ -1,2 +1,2 @@
-# bakery-optimization
-Monte Carlo Simulation to optimize daily bakery production as newsvendor problem
+# monte-carlo-simulation
+I use Monte Carlo Simulation to optimize the daily production of a bekaery as a newsvendor problem
