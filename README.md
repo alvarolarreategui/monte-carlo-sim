@@ -1,6 +1,5 @@
 # monte-carlo-simulation
-D
-ESCRIPTION
+DESCRIPTION
 
 Simulation project for developing a News Vendor Problem application to a bakery production
 
