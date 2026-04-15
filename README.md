@@ -1,7 +1,7 @@
 # monte-carlo-simulation
 ## Using Monte Carlo Simulation to develop a News Vendor Problem Application
 
-*This project was developed for Gerogia Tech class ISyE 6644 Simulation 2025. The file "Project Report Group 208.pdf" contains full details and conclusions*
+*This project was developed for Gerogia Tech class ISyE 6644 Simulation in 2025. The file "Project Report Group 208.pdf" contains full details and conclusions*
 
 **Monte Carlo simulation** (MCS) was primarily developed by S. Ulam in the 1940s by realizing “that electronic computers made it practical to apply statistical methods to functions without known solutions”. With current computational power, MCS can draw thousands of simulated samples that can be used to compute many statistics about each sample. Then, thanks to the Law of Large Numbers, it is possible to compute probabilities and confidence intervals for the expected values with precision that increases as the number of simulations increases.
 
