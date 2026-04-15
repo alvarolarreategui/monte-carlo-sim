@@ -1,5 +1,7 @@
 # monte-carlo-simulation
-DESCRIPTION
+## Using Monte Carlo Simulation to develop a News Vendor Problem Application
+
+*This project was developed for Gerogia Tech class ISyE 6644 Simulation 2025. The file "Project Report Group 208.pdf" contains full details and conclusions*
 
 Simulation project for developing a News Vendor Problem application to a bakery production
 
