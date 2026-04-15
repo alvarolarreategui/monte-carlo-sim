@@ -15,21 +15,7 @@ Contrary to the Single Period Problem (SPP), the model above has no easy analyti
 
 <img width="1596" height="717" alt="image" src="https://github.com/user-attachments/assets/f51dc7b6-d4c9-49de-a28e-62f140f13ff4" />
 
-CONTENTS
-
-This package contains the following files:
-
-- README
-
-- Group208_Project_Report.Rmd 
-
-- shiny folder that contains the following files:
-	- app.R     
-	- helpers.R
-	 
-INSTRUCTIONS
-
-- Group208_Project_Report.Rmd is the source code for the report and documentation on the code for the app.
+Shiny APP INSTRUCTIONS:
 
 - To run the app,
 
