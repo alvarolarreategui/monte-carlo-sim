@@ -13,7 +13,9 @@ $$D_k = \sum_{i=1}^{N} X_{ik}$$
 
 Contrary to the Single Period Problem (SPP), the model above has no easy analytical solution in the general case [4]. An alternative is to find Q by simulation, which is the approach here. By generating many realizations of the random variables that compose the demand, we will compute the daily profits for a business cycle, say a quarter or year, then average them. By doing this for many replications, the Law of Large Numbers says the average profit is normally distributed. This allows us to have a point estimator of the expected profit as well as a confidence interval.
 
-<img width="1596" height="717" alt="image" src="https://github.com/user-attachments/assets/f51dc7b6-d4c9-49de-a28e-62f140f13ff4" />
+Shiny App:
+
+<img width="2366" height="1297" alt="image" src="https://github.com/user-attachments/assets/1f5d6b5e-f412-42f6-b27b-a572def1d730" />
 
 Shiny APP INSTRUCTIONS:
 
